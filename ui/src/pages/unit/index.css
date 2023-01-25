@@ -1,0 +1,25 @@
+.unit-card {
+    padding: 1rem 0;
+    width: 100%;
+    border-bottom: 1px solid gray;
+}
+
+.unit-name {
+    color: #2d57d2;
+}
+
+.unit-metadata {
+    font-size: 14px;
+    margin-top: 16px;
+}
+
+.unit-metadata .metadata-label {
+    color: gray;
+    margin-right: 8px;
+}
+
+.unit-download {
+    display: block;
+    margin-top: 12px;
+    width: 0;
+}
